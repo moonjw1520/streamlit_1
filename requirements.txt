@@ -6,6 +6,7 @@ sentence-transformers
 faiss-cpu
 tiktoken
 openai
+langchain-openai
 pypdf
 loguru
 docx2txt
